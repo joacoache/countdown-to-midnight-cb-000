@@ -11,7 +11,7 @@ end
 
 
 
-def countdown_with_sleep
+def countdown_with_sleep(x)
   count = x
   until count == 0
     puts "#{count} SECOND(S)!"
