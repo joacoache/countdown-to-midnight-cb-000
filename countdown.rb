@@ -18,4 +18,5 @@ def countdown_with_sleep
     count -= 1
     sleep(1.seconds)
   end
-return "HAPPY NEW YEAR!"
+  return "HAPPY NEW YEAR!"
+end
